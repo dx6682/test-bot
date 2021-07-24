@@ -6,6 +6,6 @@
 ```json
 {
     "i": "",
-    "url": "https://msk.seppuku.club"
+    "url": "https://umaskey.net"
 }
 ```
